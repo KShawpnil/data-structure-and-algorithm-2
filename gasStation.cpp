@@ -1,4 +1,3 @@
-//011201125_PP2
 #include <iostream>
 
 using namespace std;
