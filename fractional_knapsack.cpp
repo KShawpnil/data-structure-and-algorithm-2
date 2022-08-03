@@ -1,4 +1,3 @@
-//011201125_PP1
 #include<iostream>
 #include<algorithm>
 #include<vector>
